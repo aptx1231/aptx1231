@@ -1,11 +1,13 @@
 ## Hi, welcome to my profile 👋
 
-[![star](https://img.shields.io/github/stars/aptx1231?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/aptx1231) [![Follow](https://img.shields.io/github/followers/aptx1231?style=social)](https://github.com/aptx1231) [![CSDN](https://img.shields.io/badge/CSDN-CSDN-brightgreen)](https://blog.csdn.net/aptx1231?type=blog) [![Visits Badge](https://badges.pufler.dev/visits/aptx1231/aptx1231?color=blue)](https://github.com/aptx1231) [![Repos Badge](https://badges.pufler.dev/repos/aptx1231?color=blue)](https://github.com/aptx1231) [![Years Badge](https://badges.pufler.dev/years/aptx1231?color=blue)](https://github.com/aptx1231) [![Commits Badge](https://badges.pufler.dev/commits/monthly/aptx1231?color=blue)](https://github.com/aptx1231)
+[![star](https://img.shields.io/github/stars/aptx1231?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/aptx1231) [![Follow](https://img.shields.io/github/followers/aptx1231?style=social)](https://github.com/aptx1231)
 
-- 🏫 I’m a graduate student of [Beihang University](http://www.buaa.edu.cn/), China (UTC+8).
-- 🌱 My research interests include Spatio-Temporal Data Mining, Graph Neural Networks, Representation Learning, and Transformers.
-- 💪 I’m the core developer of [LibCity](https://github.com/LibCity), an open library for Urban Spatio-temporal Data Mining. [![LibCity](https://img.shields.io/github/stars/LibCity?style=social)](https://img.shields.io/github/stars/LibCity?style=social) [![fork](https://img.shields.io/github/forks/LibCity/Bigscity-Libcity?style=social)](https://github.com/LibCity/Bigscity-LibCity/network/members)
+- 🎓 I am Jiawei Jiang, a graduate student at the School of Computer Science and Engineering, [Beihang University](http://www.buaa.edu.cn/), China (UTC+8).
+- 🌱 My research interests include Spatio-Temporal Data Mining, Graph Neural Networks, and Representation Learning.
+- 💪 I am the core developer of [LibCity](https://github.com/LibCity), an open-source library for Urban Spatio-temporal Data Mining. Welcome to our [GitHub Repository](https://github.com/LibCity/Bigscity-LibCity), [Paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923), and [Website](https://libcity.ai/) for more details. 
+- 😄 We rank 11th in the Regular track of the Baidu KDD Cup 2022 for Spatial Dynamic Wind Power Forecasting Challenge. [Paper](https://baidukddcup2022.github.io/papers/Baidu_KDD_Cup_2022_Workshop_paper_9863.pdf) [Code](https://github.com/BUAABIGSCity/KDDCUP2022) [Web](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)
 - ⚡ Languages and environments: Python, Pytorch.
-- 😄 Pronouns: He/His/Him.
-- 📫 Reach me by email: [jwjiang@buaa.edu.cn](mailto:jwjiang@buaa.edu.cn)
+- 😇 Pronouns: He/Him/His.
+- 🎓 Link to my [Google Scholar](https://scholar.google.com/citations?user=YnJND9UAAAAJ&hl=zh-CN) and [Blog](https://aptx1231.github.io/).
+- 📫 Reach me by email: [jwjiang@buaa.edu.cn](mailto:jwjiang@buaa.edu.cn).
 
