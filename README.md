@@ -1,6 +1,6 @@
 ## Hi, welcome to my profile 👋
 
-[![star](https://img.shields.io/github/stars/aptx1231?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/aptx1231) [![Follow](https://img.shields.io/github/followers/aptx1231?style=social)](https://github.com/aptx1231)
+[![star](https://img.shields.io/github/stars/aptx1231?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/aptx1231) [![Follow](https://img.shields.io/github/followers/aptx1231?style=social)](https://github.com/aptx1231?tab=followers)
 
 - 🎓 I am Jiawei Jiang, a graduate student at the School of Computer Science and Engineering, [Beihang University](http://www.buaa.edu.cn/), China (UTC+8).
 - 🌱 My research interests include Spatio-Temporal Data Mining, Graph Neural Networks, and Representation Learning.
